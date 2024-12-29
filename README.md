@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **nloaveee/nloaveee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  <h3 align="center">✨ hyeonhee ✨</h3>
+  <h3 align="center"></h3>
 </div>
 
 <!--내용 부분-->
