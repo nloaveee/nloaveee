@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <div align="center">
   <h3 align="center"></h3>
 </div>
-<img src=""/>&nbsp 
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
